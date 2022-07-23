@@ -99,6 +99,10 @@ footer {
 .womanmobile {
 	display: none;
 }
+.attribution a {
+	text-decoration: none;
+	color: hsl(273deg 75% 66%);
+}
 @media screen and (max-width: 700px) {
 	.woman {
 		display: none;
@@ -111,7 +115,7 @@ footer {
 		align-items: center;
 		justify-content: center;
 		flex-direction: column;
-		height: 100vh;
+		height: 110vh;
 		background-image: linear-gradient(
 			0deg,
 			hsl(240deg 73% 65%) 0%,
@@ -142,7 +146,7 @@ footer {
 		background-color: hsl(0, 0%, 100%);
 		text-align: left;
 		border-radius: 20px;
-		margin-top: 80px;
+		margin-top: -32px;
 		margin-left: -230px;
 		position: relative;
 		z-index: 1;
@@ -179,7 +183,7 @@ footer {
 		display: flex;
 		width: 230px;
 		height: 232px;
-		margin-top: -181px;
+		margin-top: -236px;
 		margin-left: 101px;
 	}
 	.box1 {

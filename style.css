@@ -94,6 +94,7 @@ body {
 footer {
 	position: absolute;
 	bottom: 0;
+	height: 70px;
 	font-size: 30px;
 }
 .womanmobile {
